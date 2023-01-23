@@ -3,7 +3,7 @@
 
 // whether to do NTPTime = NTPTime - (NTPTime - TimeWhenThePacketWasSent)
 // set this to false if you are having bizzare time issues you cannot explain
-#macro NTP_CONFIG_FIXUP_SEND_TIME true
+#macro NTP_CONFIG_FIXUP_SEND_TIME false
 
 /* usually you shouldn't touch this */
 #macro NTP_DEFAULT_PORT 123

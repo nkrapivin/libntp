@@ -25,5 +25,3 @@ if (!ntp_request_time(onNtpTime, "1.ru.pool.ntp.org")) {
 
 
 
-
-
